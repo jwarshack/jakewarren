@@ -7,7 +7,7 @@ import jwar from '../public/shack.png'
 export default function Hero() {
     return (
         <div id='landing'>
-            <div className="flex flex-col md:flex-row space-y-10 items-center md:space-x-10 py-20 px-10 max-w-5xl mx-auto" style={{height: "650px"}}>
+            <div className="flex flex-col md:flex-row space-y-10 items-center md:space-x-10 py-20 px-10 max-w-5xl mx-auto" style={{height: "700px"}}>
                 <div>
                     <p className='text-lg'>Hi, I am</p>
                     <p className='ml-5 my-4 text-5xl font-bold'>Jake Warren</p>
