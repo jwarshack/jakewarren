@@ -11,7 +11,7 @@ export default function Contact() {
                     <a href='https://medium.com/@thelasthash' target="_blank" rel="noopener noreferrer"><BsMedium/></a>
                     <a href='https://www.linkedin.com/in/jake-warren-1279a5136/' target="_blank" rel="noopener noreferrer"><BsLinkedin/></a>
                 </div>
-                <p className="max-w-2xl text-center mx-auto">If you want to connect with me for work or just to chat, DM on <span style={{color: "#F4DF9E"}}><a href='https://twitter.com/jwarshack' target="_blank" rel="noopener noreferrer">twitter</a></span> or shoot me an <span style={{color: "#F4DF9E"}}><a href="mailto:jwarshack@gmail.com">email!</a></span></p>
+                <p className="max-w-2xl text-center mx-auto">If you want to connect with me for work or just to chat, DM on <span><a className="contact-link" href='https://twitter.com/jwarshack' target="_blank" rel="noopener noreferrer">twitter</a></span> or shoot me an <span><a className="contact-link" href="mailto:jwarshack@gmail.com">email</a></span>!</p>
             </div>
             
         </div>

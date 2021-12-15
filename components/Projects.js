@@ -11,7 +11,10 @@ export default function Projects() {
                 <h2 className='text-3xl'>Projects</h2>
                 <div className='grid grid-cols-1 md:grid-cols-2 gap-6'>
                     <div className='cursor-pointer'>
-                        <Image className="rounded-xl" src={elixir}/>
+
+                        <Image src={elixir} className='rounded-xl'/> 
+
+
                     </div>
                     <div className='cursor-pointer'>
                         <Image className="rounded-xl" src={cryptorings}/>

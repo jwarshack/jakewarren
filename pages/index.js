@@ -8,6 +8,9 @@ import Contact from '../components/Contact'
 export default function Home() {
   return (
     <div className='font-mono'>
+      <Head>
+        <title>Jake Warren</title>
+      </Head>
       <Navbar/>
       <Hero/>
       <Projects/>

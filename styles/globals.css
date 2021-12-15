@@ -18,3 +18,15 @@
     background: #E38F2D;
 }
 
+img {
+    line-height: 0;
+    display: block;
+}
+
+.contact-link {
+    color: #F4DF9E;
+}
+
+.contact-link:hover {
+    color: #00896F;
+}
